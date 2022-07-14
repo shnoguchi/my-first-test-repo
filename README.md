@@ -6,4 +6,4 @@
 - featureブランチで追加します．
 - 更にdevelopmentブランチで追加します．
 
-- 数式 : $\sum^{n}_{k=1}(a_{k}+b_{k})$
+- 数式 : $\int^{b}_{a} f(x) dx$

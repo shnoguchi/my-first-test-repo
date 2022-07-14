@@ -6,3 +6,4 @@
 - featureブランチで追加します．
 - 更にdevelopmentブランチで追加します．
 
+- $\sum^{n}_{k=1}(a_{k}+b_{k}) = \sum^{n}_{k=1}a_{k} + \sum^{n}_{k=1}b_{k}$
